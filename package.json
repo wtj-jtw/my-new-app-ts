@@ -45,7 +45,9 @@
   },
   "dependencies": {
     "electron-squirrel-startup": "^1.0.1",
+    "execa": "^9.6.0",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "react-grid-layout": "^1.5.1"
   }
 }

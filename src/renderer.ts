@@ -27,6 +27,8 @@
  */
 
 import './index.css';
+import '/node_modules/react-grid-layout/css/styles.css';
+import '/node_modules/react-resizable/css/styles.css';
 
 console.log('👋 This message is being logged by "renderer.js", included via webpack');
 // Add this to the end of the existing file
